@@ -26,4 +26,5 @@ Conda Version:
 conda 4.5.11
 
 [Tools Requirements]
+
 pyalgotrade-0.20
