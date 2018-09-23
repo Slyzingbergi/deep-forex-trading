@@ -15,6 +15,7 @@ git submodule add [GIT-LINK-FOR-SUBMODULE] [LOCAL-SUBMODULE-LOCATION]
 e.g. git submodule add https://github.com/z33pX/mpl_finance_ext.git tools/mpl_finance_ext
 
 [For Visualization Tools]
+
 Seems like pyalgotrader is better than mfe for the support and full documentation
 But mfe looks more beautiful
 
