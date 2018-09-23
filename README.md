@@ -18,7 +18,9 @@ ta                        0.1.7                     <pip>
 Theano                    1.0.2                     <pip>
 
 Anaconda Version:
+
 anaconda Command line client (version 1.6.3)
 
 Conda Version:
+
 conda 4.5.11
