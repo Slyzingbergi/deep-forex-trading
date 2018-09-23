@@ -1,4 +1,5 @@
 2018-09-24
+
 [ipython-notebook_kernel_creation]
 python -m ipykernel install --user --name tensorflow-kernel --display-name "tf-kernel"
 /Users/qizhu/anaconda/envs/tensorflow/bin/python: No module named ipykernel
