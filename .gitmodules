@@ -1,0 +1,3 @@
+[submodule "tools/mpl_finance_ext"]
+	path = tools/mpl_finance_ext
+	url = https://github.com/z33pX/mpl_finance_ext.git
