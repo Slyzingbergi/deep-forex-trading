@@ -3,6 +3,7 @@
 This repository is trying to use AI technology combined with trader's experience to trade forex using trend-following strategies.
 
 [System Requirements]
+
 For nn-models:
 
 Keras                     2.2.2                     <pip>
