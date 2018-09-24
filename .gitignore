@@ -2,4 +2,4 @@
 data/input
 third_party/vnpy*
 analysis/pyalgotrade_test/WIKI-*
-analysis/__pycache__
+analysis/pyalgotrade_test/__pycache__
