@@ -51,8 +51,8 @@ class MyStrategy(strategy.BacktestingStrategy):
 def run_strategy(smaPeriod):
     # Load the bar feed from the CSV file
     # feed = quandlfeed.Feed()
-    feed = csvfeed.GenericBarFeed(Frequency.MINUTE)
     # feed.addBarsFromCSV("orcl", "WIKI-ORCL-2000-quandl.csv")
+    feed = csvfeed.GenericBarFeed(Frequency.MINUTE)
     feed.addBarsFromCSV("orcl", "../../data/input/EURUSD_Candlestick_15_M_ASK_01.04.2018-21.09.2018_after.csv")
 
     # Evaluate the strategy with the feed.

@@ -9,7 +9,7 @@ class SMACrossOver(strategy.BacktestingStrategy):
         self.__instrument = instrument
         self.__position = None
         # We'll use adjusted close values instead of regular close values.
-        self.setUseAdjustedValues(True)
+        # self.setUseAdjustedValues(True)
         self.__prices = feed[instrument].getPriceDataSeries()
         self.__sma = ma.SMA(self.__prices, smaPeriod)
 

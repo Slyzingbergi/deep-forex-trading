@@ -1,5 +1,5 @@
 .idea
 data/input
 third_party/vnpy*
-analysis/WIKI-*
+analysis/pyalgotrade_test/WIKI-*
 analysis/__pycache__
