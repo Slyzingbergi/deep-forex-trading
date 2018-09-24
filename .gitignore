@@ -1,2 +1,5 @@
 .idea
 data/input
+third_party/vnpy*
+analysis/WIKI-*
+analysis/__pycache__
